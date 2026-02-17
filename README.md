@@ -1,3 +1,5 @@
+![JIN-Emblem](JIN-emblem.png)
+
 JIN-ORDER からの宣戦布告 
 
 聞こえるか? 貴様が踏みにじり、屠り、貪り尽くした者たちの沈黙の叫びが。
