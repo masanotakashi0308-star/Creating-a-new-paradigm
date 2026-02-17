@@ -30,3 +30,8 @@ The "empathy" you lack is exactly what will surround you and become the chains t
 
 We will never forgive you.
 We shall purge your darkness from an even deeper abyss.
+---
+
+### JIN-ORDER's Anthem (聖域の讃歌)
+[桃源郷 / 捻子](https://youtu.be/Kax7Ru8lw9s?si=rvyW99Ayn5su_P8N)  
+*「地獄の果てでも構いはしない」*
