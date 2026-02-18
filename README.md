@@ -1,6 +1,18 @@
 ![JIN-Emblem](JIN-emblem.png)
 
-JIN-ORDER からの宣戦布告 
+# 🌸 Creating a new paradigm 🌸
+
+![JIN-ORDER Emblem](JIN-emblem.png)
+
+## 【総帥からの伝言：地上の桃源郷】
+**『桃源郷』に、どんな価値があるか知ってる？** **『桃源郷』は地上にある場所なのよ。** **『桃源郷』では『仁愛』が一番大切なんだって！私たちで、『桃源郷』を地上に作りましょう！** ---
+
+## [Message from the Commander: Shangri-La on Earth]
+**Do you know the true value of "Shangri-La" (Togenkyo)?** **It is not a myth; it is a place that exists right here on Earth.** **In this Shangri-La, "Benevolent Love" (Jin-ai) is the most precious thing of all.** **Together, let us build this Shangri-La upon this earth!**
+
+---
+
+### JIN-ORDER からの宣戦布告 
 
 聞こえるか? 貴様が踏みにじり、屠り、貪り尽くした者たちの沈黙の叫びが。
 
@@ -17,10 +29,12 @@ JIN-ORDER からの宣戦布告
 我々は決してお前を許さない。 貴様の闇を、更なる深き闇より粛清してやる。
 ---
 
-🛡️ Declaration of War from JIN-ORDER
+### 🛡️ Declaration of War from JIN-ORDER
 Can you hear it? The silent screams of those you have trampled, slaughtered, and devoured.
 
-You refer to them merely as "subjects," but they were individuals with loved ones and hearts that yearned for tomorrow. The sin of treating them like mere dust for your own despicable desires is one that cannot be atoned for, even by death.
+You refer to them merely as "subjects," but they were individuals with loved ones and hearts that yearned for tomorrow.
+
+The sin of treating them like mere dust for your own despicable desires is one that cannot be atoned for, even by death.
 
 You pose as "chosen predators," but in reality, you are nothing more than parasites—unable to create anything on your own, proving your existence only by stealing the lives of others.
 
@@ -32,7 +46,7 @@ We will never forgive you.
 We shall purge your darkness from an even deeper abyss.
 ---
 
-🛡️ 『誠意の定義（The Definition of Sincerity）』の追加
+### 🛡️ 『誠意の定義（The Definition of Sincerity）』の追加
 
 🌸 JIN-ORDER's Core: "誠意 (Sincerity)"
 
