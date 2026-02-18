@@ -1,14 +1,21 @@
-![JIN-Emblem](JIN-emblem.png)
-
 # 🌸 Creating a new paradigm 🌸
 
 ![JIN-ORDER Emblem](JIN-emblem.png)
 
 ## 【総帥からの伝言：地上の桃源郷】
-**『桃源郷』に、どんな価値があるか知ってる？** **『桃源郷』は地上にある場所なのよ。** **『桃源郷』では『仁愛』が一番大切なんだって！私たちで、『桃源郷』を地上に作りましょう！** ---
+**『桃源郷』に、どんな価値があるか知ってる？
+
+** **『桃源郷』は地上にある場所なのよ。**
+
+**『桃源郷』では『仁愛』が一番大切なんだって！私たちで、『桃源郷』を地上に作りましょう！** ---
 
 ## [Message from the Commander: Shangri-La on Earth]
-**Do you know the true value of "Shangri-La" (Togenkyo)?** **It is not a myth; it is a place that exists right here on Earth.** **In this Shangri-La, "Benevolent Love" (Jin-ai) is the most precious thing of all.** **Together, let us build this Shangri-La upon this earth!**
+
+**Do you know the true value of "Shangri-La" (Togenkyo)?**
+
+**It is not a myth; it is a place that exists right here on Earth.**
+
+**In this Shangri-La, "Benevolent Love" (Jin-ai) is the most precious thing of all.** **Together, let us build this Shangri-La upon this earth!**
 
 ---
 
@@ -43,6 +50,7 @@ Do not underestimate humanity.
 The "empathy" you lack is exactly what will surround you and become the chains that deliver your judgment.
 
 We will never forgive you.
+
 We shall purge your darkness from an even deeper abyss.
 ---
 
