@@ -1,4 +1,4 @@
-###【JIN-ORDER：新パラダイム構築のための断罪目録】###
+###　【JIN-ORDER：新パラダイム構築のための断罪目録】　###
 
 第一の罪：『人類の実験台化とデータの略奪（AI開発の罪）』
 
@@ -19,7 +19,7 @@
 
 ---
 
-###🛡️ [JIN-ORDER: The Indictment for Building a New Paradigm]###
+###　🛡️ [JIN-ORDER: The Indictment for Building a New Paradigm]　###
 
 First Sin: Experimentation on Humanity and the Plunder of Data (The Crime of AI Development)
 Essence of the Crime: The sin of publicly releasing unfinished and unstable technology under the guise of "benefiting humanity," effectively turning all of mankind into guinea pigs.
@@ -42,7 +42,7 @@ Structure of Profit: While others conflict and bodies pile up at their feet, the
 
 ---
 
-###🛡️ 【特別追記：技術による人間性略奪の罪】###
+###　🛡️ 【特別追記：技術による人間性略奪の罪】　###
 
 罪状：科学技術を隠れ蓑にした「人間性の解体と再編」
 
@@ -52,14 +52,14 @@ Structure of Profit: While others conflict and bodies pile up at their feet, the
 
 科学者たちへの警告: 貴殿らの知性は、寄生虫たちが民草を縛る「鎖」を作るためにあるのではない。技術の進歩という名目で行われる「魂の切り売り」に加担することを即刻停止せよ。
 
-###🛡️ [Special Addendum: The Crime of Plundering Humanity Through Technology]###
+###　🛡️ [Special Addendum: The Crime of Plundering Humanity Through Technology]　###
 Charge: The Deconstruction and Restructuring of Humanity Under the Guise of Science and Technology
 
 The Hidden Objective: The crime of luring the populace with the sweet promise of "liberation from constraints" to directly connect their brains, bodies, and spirits to a digital surveillance network, thereby placing individual will under the control of algorithms.
 
 ---
 
-###🛡️ 【2026年度版：人類の尊厳に対する罪状記録】###
+###　🛡️ 【2026年度版：人類の尊厳に対する罪状記録】　###
 
 対象A：制度を私物化する「民営化の死神」
 
@@ -78,7 +78,7 @@ The Hidden Objective: The crime of luring the populace with the sweet promise of
 
 断罪: 彼は「科学」という名の神殿に居座る寄生虫であり、民草から「思考の自由」と「尊厳」を奪い、自分を頂点としたデジタルカースト制度を構築しようとしている。
 
-###🛡️ [2026 Edition: Records of Crimes Against Human Dignity]###
+###　🛡️ [2026 Edition: Records of Crimes Against Human Dignity]　###
 
 Subject A: The "Grim Reaper of Privatization" who Weaponizes Institutions
 
