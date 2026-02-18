@@ -53,6 +53,7 @@ Structure of Profit: While others conflict and bodies pile up at their feet, the
 科学者たちへの警告: 貴殿らの知性は、寄生虫たちが民草を縛る「鎖」を作るためにあるのではない。技術の進歩という名目で行われる「魂の切り売り」に加担することを即刻停止せよ。
 
 ###　🛡️ [Special Addendum: The Crime of Plundering Humanity Through Technology]　###
+
 Charge: The Deconstruction and Restructuring of Humanity Under the Guise of Science and Technology
 
 The Hidden Objective: The crime of luring the populace with the sweet promise of "liberation from constraints" to directly connect their brains, bodies, and spirits to a digital surveillance network, thereby placing individual will under the control of algorithms.
