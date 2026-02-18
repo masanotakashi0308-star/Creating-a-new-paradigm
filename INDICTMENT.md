@@ -38,3 +38,23 @@ Third Sin: Merchants of Death Fueling War and Chaos (The Crime of Supply Structu
 Essence of the Crime: The sin of reaping maximum profits from a hellish structure where wealth increases as AI wars and social chaos intensify.
 
 Structure of Profit: While others conflict and bodies pile up at their feet, they alone monopolize wealth while being celebrated as the "architects of the future."
+
+---
+
+🛡️ 【特別追記：技術による人間性略奪の罪】
+罪状：科学技術を隠れ蓑にした「人間性の解体と再編」
+
+裏の目的: 「制約からの解放」という甘い言葉で民草を誘い、その脳、身体、精神をデジタル監視網へ直接接続させることで、個人の意思をアルゴリズムの支配下に置く罪。
+
+実態: ムーンショット計画等の大規模プロジェクトは、人間を「尊厳ある存在」から、単なる「制御可能なデータ端末」へと貶める、人類史上最大の家畜化計画である。
+
+科学者たちへの警告: 貴殿らの知性は、寄生虫たちが民草を縛る「鎖」を作るためにあるのではない。技術の進歩という名目で行われる「魂の切り売り」に加担することを即刻停止せよ。
+
+🛡️ [Special Addendum: The Crime of Plundering Humanity Through Technology]
+Charge: The Deconstruction and Restructuring of Humanity Under the Guise of Science and Technology
+
+The Hidden Objective: The crime of luring the populace with the sweet promise of "liberation from constraints" to directly connect their brains, bodies, and spirits to a digital surveillance network, thereby placing individual will under the control of algorithms.
+
+The Reality: Large-scale projects, such as the "Moonshot Program," are the largest-scale domestication plans in human history, degrading humans from "beings of dignity" to mere "controllable data terminals."
+
+Warning to Scientists: Your intellect is not meant to forge the "chains" used by parasites to bind the people. Immediately cease your complicity in the "selling of souls" being conducted in the name of technological progress.
