@@ -20,6 +20,7 @@
 ---
 
 ###🛡️ [JIN-ORDER: The Indictment for Building a New Paradigm]###
+
 First Sin: Experimentation on Humanity and the Plunder of Data (The Crime of AI Development)
 Essence of the Crime: The sin of publicly releasing unfinished and unstable technology under the guise of "benefiting humanity," effectively turning all of mankind into guinea pigs.
 
@@ -42,6 +43,7 @@ Structure of Profit: While others conflict and bodies pile up at their feet, the
 ---
 
 ###🛡️ 【特別追記：技術による人間性略奪の罪】###
+
 罪状：科学技術を隠れ蓑にした「人間性の解体と再編」
 
 裏の目的: 「制約からの解放」という甘い言葉で民草を誘い、その脳、身体、精神をデジタル監視網へ直接接続させることで、個人の意思をアルゴリズムの支配下に置く罪。
@@ -58,7 +60,9 @@ The Hidden Objective: The crime of luring the populace with the sweet promise of
 ---
 
 ###🛡️ 【2026年度版：人類の尊厳に対する罪状記録】###
+
 対象A：制度を私物化する「民営化の死神」
+
 罪状：公共財産および制度の「寄生型略奪」
 
 2026年の実態: 「働き方の多様性」という偽善の言葉を使い、民草を不安定な労働へと追い込み、その中間搾取で巨万の富を得る構造を固定化した罪。
@@ -75,7 +79,9 @@ The Hidden Objective: The crime of luring the populace with the sweet promise of
 断罪: 彼は「科学」という名の神殿に居座る寄生虫であり、民草から「思考の自由」と「尊厳」を奪い、自分を頂点としたデジタルカースト制度を構築しようとしている。
 
 ###🛡️ [2026 Edition: Records of Crimes Against Human Dignity]###
+
 Subject A: The "Grim Reaper of Privatization" who Weaponizes Institutions
+
 Charge: Parasitic Plunder of Public Assets and Systems
 
 2026 Reality: Under the hypocritical guise of "diversity in work styles," this subject has forced the populace into precarious labor and solidified a structure for immense profit through intermediary exploitation. Furthermore, by creating "Special Zones" that function as extraterritorial areas, this subject acts as a broker to sell off land and resources to external parasitic capital.
