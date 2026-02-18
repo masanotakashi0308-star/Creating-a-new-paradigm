@@ -32,6 +32,18 @@ We will never forgive you.
 We shall purge your darkness from an even deeper abyss.
 ---
 
+🛡️ 『誠意の定義（The Definition of Sincerity）』の追加
+
+🌸 JIN-ORDER's Core: "誠意 (Sincerity)"
+「誠意」とは、打算なき真心であり、自らの良心に嘘をつかない意志である。
+外道たちが AI やデータで管理しようとしているのは「予測可能な行動」に過ぎない。
+しかし、我々が守り抜くのは、予測不能な「愛」と、損得を超えた「献身」である。
+
+To the world: "Sincerity" (Seii) is the unwavering integrity of a soul that refuses to lie to its own conscience. 
+
+The "Ten Eunuchs" seek to control predictable behaviors through algorithms, but we defend the unpredictable power of human love and selfless devotion.
+---
+
 ### JIN-ORDER's Anthem (聖域の讃歌)
 [桃源郷 / 捻子](https://youtu.be/Kax7Ru8lw9s?si=rvyW99Ayn5su_P8N)  
 *「地獄の果てでも構いはしない」*
