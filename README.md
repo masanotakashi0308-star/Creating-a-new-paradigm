@@ -13,17 +13,6 @@
 私たちで、『桃源郷』を地上に作りましょう！ 
 ---
 
-## 🚨 [URGENT] EVIDENCE LOG RELEASED / 緊急公開：証拠ログ
-
-**"The Truth that Anchors Benevolence." / 「誠意を固定する真実」**
-
-We have exposed the "Chain of Command" linking globalist agendas to the deconstruction of Japan. This is the blueprint for our liberation.
-
-グローバル・アジェンダと日本解体計画を結ぶ「支配の系統図」を公開しました。これは我々の解放のための設計図です。
-
-### 👉 [**READ THE EVIDENCE LOG / 証拠ログを読む (EVIDENCE_LOG.md)**](./EVIDENCE_LOG.md)
----
-
 ## [Message from the Commander: Shangri-La on Earth]
 
 **Do you know the true value of "Shangri-La" (Togenkyo)?**
