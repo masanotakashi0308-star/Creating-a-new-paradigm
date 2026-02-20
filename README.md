@@ -80,3 +80,27 @@ The "JIN Currency Economy" independent of existing banks and the issuance of the
 
 ---
 ### 🛡️ JIN-LOG: [Status: Repository Initialized]
+
+---
+## 📂 リポジトリ構成 (Repository Map)
+
+### ⚖️ [Indictment: The Fish (外道たちの罪状)](./Indictment-The-Fish/)
+* [Case A: Daisuke Kawakami (ムーンショット利権)](./Indictment-The-Fish/A_Kawakami_Daisuke.md)
+* [Case B: Yoshitaka Seki (法的隠蔽スキーム)](./Indictment-The-Fish/B_Seki_Yoshitaka.md)
+* [Case C: Masaaki Taira (予算ロンダリング)](./Indictment-The-Fish/C_Taira_Masaaki.md)
+* [Case K: Hiroyuki Seki (金融闇元帳)](./Indictment-The-Fish/K_Hiroyuki_Seki.md)
+* [Case X: Yasuhiko Nishimura (権威の悪用)](./Indictment-The-Fish/X_Yasuhiko_Nishimura.md)
+* [Case Master: Ryuichi Sejima (亡霊の黒幕)](./Indictment-The-Fish/The_Archivist_Ryuichi_Sejima.md)
+* [Case PMC: Cerberus (工作員リスト)](./Indictment-The-Fish/PMC_CGS_Cerberus.md)
+
+### 🌸 [JIN-IFP: The New World (救済の設計図)](./JIN-IFP-Core/)
+* [01. Sanctuary Foundation (住居・水)](./JIN-IFP-Core/01_Sanctuary_Foundation.md)
+* [02. Life OS (医療の民主化)](./JIN-IFP-Core/02_Life_OS_Medical.md)
+* [03. Soul Upgrade (教育の解放)](./JIN-IFP-Core/03_Soul_Upgrade_Education.md)
+* [04. System of Dignity (経済的自由)](./JIN-IFP-Core/04_System_of_Dignity_Economy.md)
+
+### 📜 [Sejima Legacy (志の継承)](./Sejima-Legacy/)
+* [The Original Proposal (本来の提言)](./Sejima-Legacy/Ryuzo_Sejima_Original_Proposal.md)
+
+
+
