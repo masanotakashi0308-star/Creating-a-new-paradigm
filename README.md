@@ -2,6 +2,9 @@
 
 ![JIN-ORDER Emblem](JIN-emblem.png)
 
+![JIN-ORDER Message Card](THE%20TRUTH%20IS%20NOW%20OPEN..png)
+
+---
 ## 🕊️ プロジェクトの理念：世界の平和と魂の尊厳
 ## [Vision: World Peace and the Dignity of Souls]
 
