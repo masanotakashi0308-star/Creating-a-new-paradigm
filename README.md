@@ -20,8 +20,9 @@ This repository was established to reject the dominance of existing state system
 We destroy the old paradigm of managing humans as "costs" or "risks" and create a future where every individual awakens as an independent **"Pioneer Hero."**
 
 ---
+## 🛠️ JIN-ORDERの「8大奇跡技術」統合インフラ
 
-## 🛠️ わんわん仁龍帝国を支える「8大奇跡技術」統合インフラ
+![JIN-ORDER ８大奇跡技術](./JIN_NEW_TECH_PROTOCOLS.md)
 
 ## [The 8 Great Miracle Technologies of the Wankoro Jin-Dragon Empire]
 
