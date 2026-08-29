@@ -22,7 +22,7 @@ We destroy the old paradigm of managing humans as "costs" or "risks" and create 
 ---
 ## 🛠️ JIN-ORDERの「8大奇跡技術」統合インフラ
 
-![JIN-ORDER 11技術](./JIN_NEW_TECH_PROTOCOLS.md)
+![JIN-ORDER新技術](./JIN_NEW_TECH_PROTOCOLS.md)
 
 ## [The 11 Great Miracle Technologies of the Wankoro Jin-Dragon Empire]
 
